@@ -20,9 +20,9 @@ Coding daily isn’t just about solving problems — it’s about training your 
 
 ## 🏗️ Repository Structure
 leetcode-python/
-│── Easy/
-│── Medium/
-│── Hard/
+│── Easy
+│── Medium
+│── Hard
 │── README.md
 
 Each folder will have solutions with clean code and comments.  
