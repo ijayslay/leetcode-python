@@ -18,13 +18,6 @@ This repository contains my **daily solutions** to LeetCode problems, solved in 
 > *“Small progress every day adds up to big results.”*  
 Coding daily isn’t just about solving problems — it’s about training your mind to think logically, consistently, and confidently.  
 
-## 🏗️ Repository Structure
-leetcode-python/
-│── Easy
-│── Medium
-│── Hard
-│── README.md
-
 Each folder will have solutions with clean code and comments.  
 
 ## ✨ Example
